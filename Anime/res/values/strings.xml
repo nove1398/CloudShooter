@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Cloud Shooter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_anime_action">Cloud Shooter</string>
+
+</resources>
